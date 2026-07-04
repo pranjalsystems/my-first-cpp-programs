@@ -1,41 +1,44 @@
 # My First C++ Programs
 
-Welcome!
+Welcome! 👋
 
 This repository documents my journey learning C++ from scratch.
 
-Every program here is written by me as I learn new concepts.
+---
 
-Current Progress
+## ✅ Current Progress
 
-✅ Variables
-✅ Input / Output
-✅ Operators
-✅ Conditions
+- [X] Variables
+- [x] Input / Output
+- [x] Operators
+- [x] Conditions
+- [ ] Switch
+- [ ] Loops
+- [ ] Functions
+- [ ] Arrays
 
-Upcoming
+---
 
-⬜ Switch
-⬜ Loops
-⬜ Functions
-⬜ Arrays
-
-
-Learning Style
+## 📚 Learning Style
 
 I solve every exercise myself.
 
 I use AI as a mentor to:
 
-• explain concepts
-• review my code
-• suggest improvements
+- Explain concepts
+- Review my code
+- Suggest improvements
 
+---
 
-Roadmap
+## 🛣️ Roadmap
 
-Phase 1 - Basics
-Phase 2 - Data Structures
-Phase 3 - OOP
-Phase 4 - STL
-Phase 5 - Projects
+- Phase 1 – Basics
+- Phase 2 – Data Structures
+- Phase 3 – OOP
+- Phase 4 – STL
+- Phase 5 – Projects
+
+---
+
+Happy coding! 🚀
