@@ -12,7 +12,7 @@ This repository documents my journey learning C++ from scratch.
 - [x] Input / Output
 - [x] Operators
 - [x] Conditions
-- [ ] Switch
+- [x] Switch
 - [ ] Loops
 - [ ] Functions
 - [ ] Arrays
