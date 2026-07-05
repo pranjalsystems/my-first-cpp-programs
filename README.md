@@ -8,7 +8,7 @@ This repository documents my journey learning C++ from scratch.
 
 ## ✅ Current Progress
 
-- [X] Variables
+- [x] Variables
 - [x] Input / Output
 - [x] Operators
 - [x] Conditions
@@ -21,7 +21,7 @@ This repository documents my journey learning C++ from scratch.
 
 ## 📚 Learning Style
 
-I solve every exercise myself.
+I solve every exercise myself before asking for help.
 
 I use AI as a mentor to:
 
@@ -35,8 +35,8 @@ I use AI as a mentor to:
 
 - Phase 1 – Basics
 - Phase 2 – Data Structures
-- Phase 3 – OOP
-- Phase 4 – STL
+- Phase 3 – Object-Oriented Programming (OOP)
+- Phase 4 – Standard Template Library (STL)
 - Phase 5 – Projects
 
 ---
