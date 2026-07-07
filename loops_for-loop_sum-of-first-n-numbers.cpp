@@ -15,4 +15,5 @@ int main(){
         sum+=count;
     }
     std::cout<<"Sum = "<<sum;
+    return 0;
 }
