@@ -297,6 +297,7 @@ int main(){
         else{std::cout<<"<Invalid Input>\n";}
     }
     while (choice!=8);
+    return 0;
 }
 
 double add(double a,double  b){return a+b;}
