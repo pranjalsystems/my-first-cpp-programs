@@ -19,4 +19,5 @@ int main(){
     }
     std::cout<<"Maximum: "<<maximum<<std::endl<<std::endl;
     std::cout<<"Minimum: "<<minimum<<std::endl;
+    return 0;
 }
