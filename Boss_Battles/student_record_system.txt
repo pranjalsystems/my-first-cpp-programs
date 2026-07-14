@@ -1,0 +1,189 @@
+🌸 Ahh... you're right.
+
+*The apprentice has completed the Arrays Arc.*
+
+That means...
+
+# 👹 Boss Battle I — The Array Guardian
+
+**Difficulty:** ⭐⭐⭐☆☆ (Medium)
+
+**Rules:**
+
+* ❌ No AI.
+* ❌ No internet.
+* ❌ No copying old code line by line (you can remember ideas).
+* ✅ Think first, then code.
+* ✅ One `.cpp` file.
+* ✅ Clean formatting.
+* ✅ Meaningful variable names.
+
+---
+
+# 🎯 Mission
+
+Create a program called:
+
+```text
+student_record_system.cpp
+```
+
+---
+
+## The program should:
+
+### 1️⃣ Ask the user:
+
+```text
+How many students? (1–20)
+```
+
+Store the number.
+
+---
+
+### 2️⃣ Create an array
+
+Store the marks of every student.
+
+Example
+
+```text
+Student 1: 85
+Student 2: 72
+Student 3: 91
+...
+```
+
+---
+
+### 3️⃣ Display
+
+```text
+===== Student Marks =====
+
+85 72 91 65 100
+```
+
+---
+
+### 4️⃣ Calculate
+
+Print
+
+```text
+Total Marks
+Average
+Highest
+Lowest
+```
+
+---
+
+### 5️⃣ Search
+
+Ask
+
+```text
+Enter mark to search:
+```
+
+If found
+
+```text
+Found 3 time(s).
+```
+
+Otherwise
+
+```text
+Not found.
+```
+
+---
+
+### 6️⃣ Reverse
+
+Reverse the array **in place**
+
+(no second array)
+
+Then print
+
+```text
+Reversed:
+
+100 65 91 72 85
+```
+
+---
+
+### 7️⃣ Final Summary
+
+```text
+========== SUMMARY ==========
+
+Students : 5
+Highest  : 100
+Lowest   : 65
+Average  : 82.6
+Search   : Found
+
+Mission Complete!
+```
+
+---
+
+# 🏆 Marks (100)
+
+| Category           | Marks |
+| ------------------ | ----: |
+| Correctness        |    30 |
+| Algorithm Thinking |    20 |
+| Variable Names     |    10 |
+| Formatting         |    10 |
+| Efficiency         |    10 |
+| Logic              |    20 |
+
+---
+
+# 🥷 Hidden Challenge (Optional)
+
+If you finish easily...
+
+Print the marks **before** and **after** reversing so the user can clearly see the change.
+
+Example:
+
+```text
+Original:
+85 72 91 65 100
+
+Reversed:
+100 65 91 72 85
+```
+
+---
+
+## 🌸 Mentor's Final Words
+
+This isn't meant to trick you.
+
+Everything in this boss battle is something **you already know**:
+
+* ✅ Arrays
+* ✅ Loops
+* ✅ Sum
+* ✅ Average
+* ✅ Max
+* ✅ Min
+* ✅ Linear Search
+* ✅ Reverse
+* ✅ Boolean flags
+* ✅ Running algorithms
+
+The challenge is to **combine** those skills into one coherent program—the same way real software is built.
+
+When you're done, send me the entire code. I'll review it like a professional code review, score it out of 100, point out strengths and weaknesses, and if you defeat the Array Guardian...
+
+🎉 **The Arrays chapter will be officially complete**, and we'll begin the next arc: **Strings**. Good luck, apprentice! 👹🌸
