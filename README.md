@@ -14,8 +14,8 @@ This repository documents my journey learning C++ from scratch.
 - [x] Conditions
 - [x] Switch
 - [x] Loops
-- [ ] Functions
-- [ ] Arrays
+- [x] Functions
+- [x] Arrays
 
 ---
 
