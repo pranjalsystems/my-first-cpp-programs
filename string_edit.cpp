@@ -17,10 +17,21 @@
 #include <iostream>
 
 int main() {
-    char word[] = "Hello";
+    // char word[] = "Hello";
 
-    word[0] = 'Y';
-    word[4] = '!';
+    // word[0] = 'Y';
+    // word[4] = '!';
 
-    std::cout << word;
+    // std::cout << word;
+
+    char word[100] = "";
+    std::cout<<"Enter text to check for palindrome: ";
+    std::cin>>word;
+    char rword[100]="";
+    int length=sizeof(word)/sizeof(word[0]);
+    for(int i = length;i>=0;i--){
+        rword[length-i]=word[i];
+    }
+    if(rword==word){std::cout<<"Palindrome";}
+    else{std::cout<<"Not Palindrome";}
 }
