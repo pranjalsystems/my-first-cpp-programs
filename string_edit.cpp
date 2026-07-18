@@ -15,7 +15,7 @@
 // const char* word = "Hello";	❌ No
 
 #include <iostream>
-
+#include <cstring> // Required for strlen and strcmp ////NOTE asked for help as rword==word compares memory address/location
 int main() {
     // char word[] = "Hello";
 
@@ -29,9 +29,21 @@ int main() {
     std::cin>>word;
     char rword[100]="";
     int length=sizeof(word)/sizeof(word[0]);
-    for(int i = length;i>=0;i--){
-        rword[length-i]=word[i];
+    //Manually append the null-terminator to the end of rword
+    rword[length] = '\0';
+    // for(int i = length;i>=0;i--){
+    //     rword[length-i]=word[i];
+    // }
+
+    for (int i = 0; i < length; i++) {
+        rword[i] = word[length - 1 - i];
     }
-    if(rword==word){std::cout<<"Palindrome";}
+    std::cout<<rword<<"\n";//was empty as "" ='\0'
+    std::cout<<word<<"\n";
+    // if(rword==word){std::cout<<"Palindrome";}
+    if (std::strcmp(rword, word) == 0) {
+        std::cout << "Palindrome\n";
+    }
     else{std::cout<<"Not Palindrome";}
+    return 0;
 }
