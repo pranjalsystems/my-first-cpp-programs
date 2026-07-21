@@ -47,11 +47,12 @@ Currently learning:
 ### 🔤 Strings 🚧 In Progress
 
 - [x] Character Arrays
-- [x] Null Terminator (`'\0'`)
+- [x] Null Terminator
 - [x] Printing Strings
 - [x] Character Indexing
-- [ ] String Input (`getline`)
-- [ ] String Traversal
+- [x] String Traversal
+- [x] Manual strlen() idea
+- [ ] getline()
 - [ ] String Algorithms
 - [ ] Mini Project
 - [ ] Boss Battle II
