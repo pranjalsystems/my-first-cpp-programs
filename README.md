@@ -52,9 +52,9 @@ Currently learning:
 - [x] Character Indexing
 - [x] String Traversal
 - [x] Manual strlen() idea
-- [ ] getline()
-- [ ] String Algorithms
-- [ ] Mini Project
+- [x] getline()
+- [x] String Algorithms
+- [x] Mini Project
 - [ ] Boss Battle II
 
 ---
