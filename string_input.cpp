@@ -5,8 +5,10 @@ int main(){
     std::cout<<word<<"\n\n";
 
     std::cout<<"Enter Text: ";
-    std::cin>>word;
-    std::cout<<word<<"\n";//print word till white space
+    // std::cin>>word;
+    std::cin.getline(word,100);
+    // std::cout<<word<<"\n";//print word till white space update after learning getline
+    std::cout<<word<<"\n";
     return 0;
 }
 
