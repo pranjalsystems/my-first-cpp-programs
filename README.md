@@ -55,11 +55,11 @@ Currently learning:
 - [x] getline()
 - [x] String Algorithms
 - [x] Mini Project
-- [ ] Uppercase
-- [ ] Lowercase
-- [ ] Toggle Case
-- [ ] Character Classification
-- [ ] Remove Spaces
+- [x] Uppercase
+- [x] Lowercase
+- [x] Toggle Case
+- [x] Character Classification
+- [x] Remove Spaces
 - [ ] Compare Strings
 - [ ] Text Utility Mini Project
 - [ ] Boss Battle II
