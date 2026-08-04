@@ -60,8 +60,8 @@ Currently learning:
 - [x] Toggle Case
 - [x] Character Classification
 - [x] Remove Spaces
-- [ ] Compare Strings
-- [ ] Text Utility Mini Project
+- [x] Compare Strings
+- [x] Text Utility Mini Project
 - [ ] Boss Battle II
 
 ---
